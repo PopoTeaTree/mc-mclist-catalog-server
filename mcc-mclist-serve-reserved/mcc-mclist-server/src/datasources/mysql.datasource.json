@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "url": "",
+  "host": "127.0.0.1",
+  "port": 30001,
+  "user": "root",
+  "password": "catalog_pass",
+  "database": "catalog"
+}
